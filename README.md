@@ -1,2 +1,3 @@
 # publi_repository_checking
-this is for checking to access private repositories of a user with authenticated user
+This repository serves as a place for the testing and development of the apis and I am amir nazir chachar.
+
