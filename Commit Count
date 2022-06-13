@@ -1,0 +1,2 @@
+# publi_repository_checking
+this is for checking to access private repositories of a user with authenticated user
